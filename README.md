@@ -1,7 +1,7 @@
 ## Hello! I am Stacey 👋
 
 - Recent graduate of the Grace Hopper Program at Fullstack Academy (coding bootcamp) 💻 <br/>
-- Continous learning helps me best serve others 💚
+- Continuous learning helps me best serve others 💚
 
 <b>Currently: </b> <br/>
 Creating a solo full-stack app <br/>
