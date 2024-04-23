@@ -4,10 +4,10 @@
 - Continuous learning helps me best serve others 💚
 
 <b>Currently: </b> <br/>
-Creating a solo full-stack app <br/>
-Learning and practicing different data structures & algorithms <br/> <br/>
+Learning Python<br/>
+Practicing different data structures & algorithms <br/> <br/>
 <b>Next Goal: </b> <br/>
-Learn Python 
+Continue building by myself and with others
 
 ## Technologies I've Used
 <span>
