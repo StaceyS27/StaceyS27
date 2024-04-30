@@ -5,7 +5,7 @@
 
 <b>Currently: </b> <br/>
 Learning Python<br/>
-Practicing different data structures & algorithms <br/> <br/>
+
 <b>Next Goal: </b> <br/>
 Continue building by myself and with others
 
